@@ -1,0 +1,40 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rhistory
+
+# R package / build
+*.RData
+*.Rhistory
+
+# R environment
+.Renviron
+.Rprofile
+
+# R Markdown cache
+*_cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Temporary/editor swap files
+*~
+*.swp
+
+# Logs
+*.log
