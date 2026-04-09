@@ -1,0 +1,25 @@
+{
+  "samples": 30,
+  "genes_retained": 18802,
+  "shared_stage_genes_fdr_0_05": 9649,
+  "interaction_genes_fdr_0_05": 698,
+  "stage_effect_counts": {
+    "EAV": 165,
+    "LAV": 1168,
+    "Lifter": 5314,
+    "SG": 1794,
+    "SGxAV": 1222
+  },
+  "sgxav_similarity": {
+    "to_sg": 0.5884,
+    "to_eav": 0.4055,
+    "to_lav": 0.3638,
+    "to_lifter": 0.3197
+  },
+  "overlap": {
+    "shared_overlap": 7025,
+    "interaction_overlap": 248,
+    "top100_shared_overlap": 70,
+    "top100_interaction_overlap": 40
+  }
+}
